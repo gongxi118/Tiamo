@@ -1,2 +1,2 @@
-tiamo\n
+tiamo:
 I love you
